@@ -13,10 +13,12 @@ Herkes bu videoları bitirsin bugün;
 [![image](http://i.hizliresim.com/J7LBZE.png)](http://hizliresim.com/J7LBZE)
 # Uygulama
 Millet ilk uygulamanın tasarımını hallettim;
+
 [![image](http://i.hizliresim.com/7VmzmL.png)](http://hizliresim.com/7VmzmL)
 - Uygulama ilk açıldığında 4 saniyelik bir başlangıç ekranı olacak. Başlangıç ekranını istediğiniz gibi tasarlayabilirsiniz.
 - Uygulamada işlem butonlarına (/ x - +) basıldığında 1. Sayı ve 2. Sayı arasındaki textview basılan butona göre değişecek
+
 [![image](http://i.hizliresim.com/ZAN4Lg.png)](http://hizliresim.com/ZAN4Lg)
 - Sonuçlar Sonuç textview bölümünde gözükecek
 - Sağ alttaki Kapat butonuna tıklandığında program kapatılacak.
-- ** Hayde kolay gelsin ^-^**
+-  Hayde kolay gelsin ^-^
