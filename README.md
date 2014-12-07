@@ -10,7 +10,7 @@ Başlangıç olarak [bu](http://www.youtube.com/playlist?list=PLSg_-k7KzeO9dwghE
 ***
 ## Günlük Görev
 Herkes bu videoları bitirsin bugün;
-[![image](http://i.hizliresim.com/J7LBZE.png)](http://hizliresim.com/J7LBZE)
+[![image](http://i.hizliresim.com/Gp1v9V.png)](http://hizliresim.com/Gp1v9V))
 # Uygulama
 Millet ilk uygulamanın tasarımını hallettim;
 
