@@ -24,6 +24,7 @@ Millet ilk uygulamanın tasarımını hallettim;
 -  Hayde kolay gelsin ^-^
 
 #Uygulama - 2
+Bu uygulamada önemli olan uygulamadaki tasarım. Tasarımdaki layout kullanımı, uyumluluğunu gördüğünüz gibi herşeyi yapın, en kötü tasarım benimki gibi olsun. Ana kurallara uyarak istediğiniz gibi geliştirin.
 [![image](http://i.hizliresim.com/l0dEMr.png)](http://hizliresim.com/l0dEMr)
 - Programın giriş ekranı
 - Giriş ekranı önceden belirlenmiş kullanıcı adı ve şifreye göre geçilecek
