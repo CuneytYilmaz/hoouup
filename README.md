@@ -29,6 +29,7 @@ Millet ilk uygulamanın tasarımını hallettim;
 - Giriş ekranı önceden belirlenmiş kullanıcı adı ve şifreye göre geçilecek
 - İsteyen alt taraftakı "Uğraştırma Beni" butonu ile direk geçebilir(Test aşamasında zaman kaybından kurtulmak için)
 - Şifre kısmı "Şifreyi Göster" CheckBox durumuna göre paralo durumuna (**) dönüşecek.
+
 [![image](http://i.hizliresim.com/ayLdPg.png)](http://hizliresim.com/ayLdPg)
 - Oyun, basit bir bahis oyunu gibi
 - Oyuna başlamadan önce başlangıç parası belirlenecek
