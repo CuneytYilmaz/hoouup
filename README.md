@@ -22,3 +22,18 @@ Millet ilk uygulamanın tasarımını hallettim;
 - Sonuçlar Sonuç textview bölümünde gözükecek
 - Sağ alttaki Kapat butonuna tıklandığında program kapatılacak.
 -  Hayde kolay gelsin ^-^
+
+#Uygulama - 2
+[![image](http://i.hizliresim.com/l0dEMr.png)](http://hizliresim.com/l0dEMr)
+- Programın giriş ekranı
+- Giriş ekranı önceden belirlenmiş kullanıcı adı ve şifreye göre geçilecek
+- İsteyen alt taraftakı "Uğraştırma Beni" butonu ile direk geçebilir(Test aşamasında zaman kaybından kurtulmak için)
+- Şifre kısmı "Şifreyi Göster" CheckBox durumuna göre paralo durumuna (**) dönüşecek.
+[![image](http://i.hizliresim.com/ayLdPg.png)](http://hizliresim.com/ayLdPg)
+- Oyun, basit bir bahis oyunu gibi
+- Oyuna başlamadan önce başlangıç parası belirlenecek
+- Başla butonuna bastıktan sonra alt ve üst butonları görünür hale gelsin
+- Oyun başında gelen sayı 25 olarak başlayacak ve kullanıcı bilgisayarın yeni belirlediği rasgele rakamın gelen sayıda yazan rakamdan büyük ya da küçük olduğunu tahmin edecek
+- Alt taraftaki kazanç, buradaki tahmin etme oranına göre belirlenecek
+- Örneğin; Gelen sayı 3 olsun. Eğer üst butonuna basıp doğru tahmin edersek 3-5 $ kazanırken, alt butonuna basıp doğru tahmin edersek 20-30$ para kazandıracak.(Verdiğim rakamlar hayali, sabah kalktığımda uygulamayı yapıp gerçek sonuç paylaşırım)
+- Tabi aynı oranda da para kaybedilecek
