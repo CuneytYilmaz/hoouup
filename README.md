@@ -39,16 +39,26 @@ Bu uygulamada önemli olan uygulamadaki tasarım. Tasarımdaki layout kullanım�
 - Alt taraftaki kazanç, buradaki tahmin etme oranına göre belirlenecek
 - Örneğin; Gelen sayı 3 olsun. Eğer üst butonuna basıp doğru tahmin edersek 3-5 $ kazanırken, alt butonuna basıp doğru tahmin edersek 20-30$ para kazandıracak.(Verdiğim rakamlar hayali, sabah kalktığımda uygulamayı yapıp gerçek sonuç paylaşırım)
 - Tabi aynı oranda da para kaybedilecek
+
 #Uygulama - 3
+
 Hayvan sesleri uygulaması. Uygulama biraz kod ameliliği yaptırıyor fakat imagebuton, toggle button gibi nesneleri tam anlamıyla anlamak için güzel bir uygulama. (şair burada diyor ki; ben hepsini elimle yazdım mecburen sizde yazacaksınız :D)
 - Uygulamada bir başlangıç ekranı olacaktır, başlangıç erkranında birde başlangıç müziği olacak (exp. Ali babanın çiftliği :D)
+
 [![image](http://i.hizliresim.com/k1OEWr.png)](http://hizliresim.com/k1OEWr)
+
 - Uygulamada resimler ImegeButton, buttonlar ise ToggleButton dur.
 - Oynat butonuna tıklandığında hayvanın sesi çalmaktadır.
+
 [![image](http://i.hizliresim.com/31EAk9.png)](http://hizliresim.com/31EAk9)
+
 - ToggleButton da off durumdayken oynat, on durumundayken ise durdur yazacak
+
 [![image](http://i.hizliresim.com/k1OEo9.png)](http://hizliresim.com/k1OEo9)
+
 - Uygulamada herhangi bir hayvanın resmine tıklandığında hayvanla ilgili bilgi çıkmaktadır.
+
 [![image](http://i.hizliresim.com/ZA9MN0.png)](http://hizliresim.com/ZA9MN0)
+
 - Uygulama bir menüye sahip olacak. Menüde hakkımda ayarlar ve çıkış sekmesi olacaktır. Hakkımda ve ayar kısmını istediğiniz gibi ayarlayın
-- 
+
